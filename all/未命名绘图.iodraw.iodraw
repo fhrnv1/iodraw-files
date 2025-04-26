@@ -115,13 +115,13 @@
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-44" value="不满足性质" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1krBHtEtTzM5FVP7Rb34-41">
           <mxGeometry x="0.0149" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-36" value="TRACE&lt;div&gt;验证&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="369" y="265" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1krBHtEtTzM5FVP7Rb34-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-39" value="输出反例路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="517" y="340" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
