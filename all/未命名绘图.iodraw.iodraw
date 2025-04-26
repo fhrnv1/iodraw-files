@@ -92,7 +92,7 @@
           <mxGeometry x="369" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-36" value="TRACE&lt;div&gt;验证&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="270" width="80" height="50" as="geometry" />
+          <mxGeometry x="369" y="265" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
