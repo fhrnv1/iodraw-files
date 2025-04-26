@@ -7,8 +7,10 @@
         <mxCell id="1krBHtEtTzM5FVP7Rb34-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-1" target="1krBHtEtTzM5FVP7Rb34-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1krBHtEtTzM5FVP7Rb34-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-1" target="1krBHtEtTzM5FVP7Rb34-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="155" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-1" value="程序源码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="140" width="80" height="30" as="geometry" />
@@ -45,9 +47,6 @@
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-11" value="GDB监视器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="140" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1krBHtEtTzM5FVP7Rb34-15" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="145" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
