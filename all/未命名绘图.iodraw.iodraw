@@ -102,6 +102,11 @@
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1krBHtEtTzM5FVP7Rb34-40">
           <mxGeometry x="0.1847" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-43" value="满足性质" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1krBHtEtTzM5FVP7Rb34-40">
+          <mxGeometry x="-0.3646" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
