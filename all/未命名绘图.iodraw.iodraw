@@ -46,6 +46,9 @@
         <mxCell id="1krBHtEtTzM5FVP7Rb34-7" value="分支分析程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="70" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-11" target="1krBHtEtTzM5FVP7Rb34-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-11" value="GDB监视器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="369" y="140" width="80" height="30" as="geometry" />
         </mxCell>
@@ -72,8 +75,8 @@
         <mxCell id="1krBHtEtTzM5FVP7Rb34-23" value="Z3求解器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="200" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1krBHtEtTzM5FVP7Rb34-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="200" width="80" height="30" as="geometry" />
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-30" value="路径转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="369" y="200" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
