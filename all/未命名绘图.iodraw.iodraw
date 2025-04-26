@@ -4,6 +4,14 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-1" target="1krBHtEtTzM5FVP7Rb34-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-6" value="需要符号化&lt;div&gt;的变量&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1krBHtEtTzM5FVP7Rb34-5">
+          <mxGeometry x="-0.1519" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-1" value="程序源码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="140" width="80" height="30" as="geometry" />
         </mxCell>
@@ -14,7 +22,7 @@
           <mxGeometry x="230" y="50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-4" value="KLEE符号执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="140" width="90" height="30" as="geometry" />
+          <mxGeometry x="290" y="140" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
