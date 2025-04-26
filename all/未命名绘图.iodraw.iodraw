@@ -20,7 +20,7 @@
           <mxGeometry x="80" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="280" width="80" height="30" as="geometry" />
+          <mxGeometry x="517" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-4" target="1krBHtEtTzM5FVP7Rb34-11">
           <mxGeometry relative="1" as="geometry">
@@ -107,7 +107,7 @@
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-43" value="满足性质" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1krBHtEtTzM5FVP7Rb34-40">
           <mxGeometry x="-0.3646" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-36" target="1krBHtEtTzM5FVP7Rb34-39">
