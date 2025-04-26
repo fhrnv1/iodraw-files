@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-2" value="LTL性质" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="220" width="80" height="30" as="geometry" />
+          <mxGeometry x="80" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="20" width="80" height="30" as="geometry" />
@@ -57,11 +57,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-21" target="1krBHtEtTzM5FVP7Rb34-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-21" value="ANTLR4性质解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="220" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-23" value="Z3求解器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="200" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
