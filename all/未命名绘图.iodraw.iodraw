@@ -20,7 +20,7 @@
           <mxGeometry x="80" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="235" width="80" height="30" as="geometry" />
+          <mxGeometry x="480" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-4" target="1krBHtEtTzM5FVP7Rb34-11">
           <mxGeometry relative="1" as="geometry">
@@ -97,8 +97,14 @@
         <mxCell id="1krBHtEtTzM5FVP7Rb34-30" value="路径转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="369" y="200" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-36" target="1krBHtEtTzM5FVP7Rb34-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-36" value="TRACE&lt;div&gt;验证&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="369" y="265" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1krBHtEtTzM5FVP7Rb34-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="340" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
