@@ -22,7 +22,7 @@
         <mxCell id="7j6JbYa-bUTuryBoNl0e-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7j6JbYa-bUTuryBoNl0e-6">
           <mxGeometry width="188.06451612903226" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7j6JbYa-bUTuryBoNl0e-4" value="系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7j6JbYa-bUTuryBoNl0e-6">
+        <mxCell id="7j6JbYa-bUTuryBoNl0e-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7j6JbYa-bUTuryBoNl0e-6">
           <mxGeometry x="42.74193548387097" y="30.000000000000004" width="102.58064516129033" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7j6JbYa-bUTuryBoNl0e-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="7j6JbYa-bUTuryBoNl0e-11" target="7j6JbYa-bUTuryBoNl0e-3">
@@ -42,13 +42,13 @@
             <mxPoint x="359.0322580645161" y="75.00000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7j6JbYa-bUTuryBoNl0e-14" value="观测" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7j6JbYa-bUTuryBoNl0e-10">
+        <mxCell id="7j6JbYa-bUTuryBoNl0e-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;观测&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7j6JbYa-bUTuryBoNl0e-10">
           <mxGeometry x="-0.0072" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7j6JbYa-bUTuryBoNl0e-12" value="插桩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="200" width="50" height="30" as="geometry" />
+        <mxCell id="7j6JbYa-bUTuryBoNl0e-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;插桩&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="195" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
