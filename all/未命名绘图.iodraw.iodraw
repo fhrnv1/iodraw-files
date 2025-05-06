@@ -37,8 +37,8 @@
             <mxPoint x="359.0322580645161" y="75.00000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7j6JbYa-bUTuryBoNl0e-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="78" width="50" height="30" as="geometry" />
+        <mxCell id="7j6JbYa-bUTuryBoNl0e-12" value="插桩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
