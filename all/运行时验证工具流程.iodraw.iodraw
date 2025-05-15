@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-21" value="ANTLR4性质解析器" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="270" width="90" height="40" as="geometry" />
+          <mxGeometry x="195" y="275" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1krBHtEtTzM5FVP7Rb34-23" target="1krBHtEtTzM5FVP7Rb34-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-36" value="TRACE&lt;div&gt;验证&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="369" y="265" width="80" height="60" as="geometry" />
+          <mxGeometry x="360" y="265" width="89" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-39" value="输出反例路径" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="517" y="340" width="80" height="30" as="geometry" />
