@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-36" value="TRACE&lt;div&gt;验证&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="265" width="89" height="60" as="geometry" />
+          <mxGeometry x="364.5" y="265" width="89" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1krBHtEtTzM5FVP7Rb34-39" value="输出反例路径" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="517" y="340" width="80" height="30" as="geometry" />
