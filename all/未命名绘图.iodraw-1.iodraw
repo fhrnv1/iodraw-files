@@ -30,7 +30,7 @@
         <mxCell id="rFG1mDFn0JyyxL478eqI-14" value="验证程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rFG1mDFn0JyyxL478eqI-28" value="使用多个线程" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rFG1mDFn0JyyxL478eqI-28" value="启动多个线程" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
