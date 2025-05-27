@@ -10,8 +10,14 @@
         <mxCell id="rFG1mDFn0JyyxL478eqI-9" value="初始化待验&lt;div&gt;证程序&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="310" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rFG1mDFn0JyyxL478eqI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-12" target="rFG1mDFn0JyyxL478eqI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-12" value="生成程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rFG1mDFn0JyyxL478eqI-14" value="验证程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
