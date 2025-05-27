@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rFG1mDFn0JyyxL478eqI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-9" target="rFG1mDFn0JyyxL478eqI-12">
+        <mxCell id="rFG1mDFn0JyyxL478eqI-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-9" target="rFG1mDFn0JyyxL478eqI-28">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rFG1mDFn0JyyxL478eqI-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="rFG1mDFn0JyyxL478eqI-13">
-          <mxGeometry x="-0.3055" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-9" value="批量初始化程序" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="310" y="140" width="120" height="60" as="geometry" />
@@ -19,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-12" value="生成程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-14" target="rFG1mDFn0JyyxL478eqI-9">
           <mxGeometry relative="1" as="geometry">
@@ -34,6 +29,9 @@
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-14" value="验证程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rFG1mDFn0JyyxL478eqI-28" value="" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
