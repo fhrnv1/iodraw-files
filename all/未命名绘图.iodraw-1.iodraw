@@ -16,6 +16,11 @@
         <mxCell id="rFG1mDFn0JyyxL478eqI-43" value="调用verify方&lt;div&gt;法验证&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rFG1mDFn0JyyxL478eqI-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-45" target="rFG1mDFn0JyyxL478eqI-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-45" value="销毁JVM&lt;div&gt;虚拟机&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
         </mxCell>
