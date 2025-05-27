@@ -28,16 +28,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-14" value="验证程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-22" target="rFG1mDFn0JyyxL478eqI-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-22" value="初始化待验&lt;div&gt;证程序&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-23" value="生成程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rFG1mDFn0JyyxL478eqI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-25" target="rFG1mDFn0JyyxL478eqI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFG1mDFn0JyyxL478eqI-25" value="初始化待验&lt;div&gt;证程序&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rFG1mDFn0JyyxL478eqI-26" value="生成程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
