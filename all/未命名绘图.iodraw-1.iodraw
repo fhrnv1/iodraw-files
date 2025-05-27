@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rFG1mDFn0JyyxL478eqI-42" value="初始化JVM虚拟机" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="rFG1mDFn0JyyxL478eqI-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-42" target="rFG1mDFn0JyyxL478eqI-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFG1mDFn0JyyxL478eqI-42" value="初始化JVM&lt;div&gt;虚拟机&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rFG1mDFn0JyyxL478eqI-43" value="" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
