@@ -33,8 +33,10 @@
         <mxCell id="rFG1mDFn0JyyxL478eqI-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-28" target="rFG1mDFn0JyyxL478eqI-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rFG1mDFn0JyyxL478eqI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-28" target="rFG1mDFn0JyyxL478eqI-33">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rFG1mDFn0JyyxL478eqI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-28" target="rFG1mDFn0JyyxL478eqI-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-28" value="启动多个线程" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
@@ -44,9 +46,6 @@
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-31" value="生成程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rFG1mDFn0JyyxL478eqI-33" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=18;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
