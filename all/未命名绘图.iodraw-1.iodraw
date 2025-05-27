@@ -16,9 +16,12 @@
         <mxCell id="rFG1mDFn0JyyxL478eqI-12" value="生成程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rFG1mDFn0JyyxL478eqI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-14">
+        <mxCell id="rFG1mDFn0JyyxL478eqI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rFG1mDFn0JyyxL478eqI-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="470" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rFG1mDFn0JyyxL478eqI-14" value="验证程序执行路径" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
