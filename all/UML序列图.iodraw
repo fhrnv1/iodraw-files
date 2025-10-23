@@ -27,8 +27,8 @@
         <mxCell id="IJzmbe2d-zoJNP9hLHmT-23" value="State" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="215" y="560" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IJzmbe2d-zoJNP9hLHmT-25" value="State1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="240" y="480" width="140" height="40" as="geometry" />
+        <mxCell id="IJzmbe2d-zoJNP9hLHmT-26" value="State1" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="215" y="630" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
