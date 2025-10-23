@@ -24,14 +24,14 @@
         <mxCell id="IJzmbe2d-zoJNP9hLHmT-13" value="State" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="215" y="460" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IJzmbe2d-zoJNP9hLHmT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJzmbe2d-zoJNP9hLHmT-23" target="IJzmbe2d-zoJNP9hLHmT-26">
+        <mxCell id="IJzmbe2d-zoJNP9hLHmT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJzmbe2d-zoJNP9hLHmT-23" target="IJzmbe2d-zoJNP9hLHmT-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IJzmbe2d-zoJNP9hLHmT-23" value="State" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="215" y="560" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IJzmbe2d-zoJNP9hLHmT-26" value="State1" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="215" y="640" width="135" height="160" as="geometry" />
+        <mxCell id="IJzmbe2d-zoJNP9hLHmT-28" value="State" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="185" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
